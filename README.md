@@ -1,16 +1,26 @@
 ## Hi there 👋
+## 👋 About Me
+Hello! I am Revanth, currently pursuing the **Data Analytics in Business Decision Making** course at **Durham College**. With a strong foundation in data analytics and programming, I am passionate about exploring the field of Artificial Intelligence (AI) to solve complex problems and create innovative solutions.
 
-<!--
-**RevanthKanagala/RevanthKanagala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools
+- **Programming Languages**: Python, R
+- **Data Visualization**: Tableau, RStudio
+- **Databases**: MySQL
+- **Others**: Data Cleaning, Predictive Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Projects
+### 1. Credit Card Fraud Detection
+- **Description**: Built a predictive model to detect fraudulent transactions using machine learning techniques.
+- **Tools Used**: Python, RStudio
+- **Key Features**: Data preprocessing, exploratory data analysis (EDA), and classification modeling.
+
+
+## 🌟 Career Goals
+I am eager to develop expertise in Artificial Intelligence (AI) and contribute to projects in machine learning, natural language processing, and neural networks.
+
+
+## 📫 Let's Connect
+- [GitHub](https://github.com/Revanth9902)
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
