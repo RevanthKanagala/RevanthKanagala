@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 About Me
 Hello! I am Revanth, currently pursuing the **Data Analytics in Business Decision Making** course at **Durham College**. With a strong foundation in data analytics and programming, I am passionate about exploring the field of Artificial Intelligence (AI) to solve complex problems and create innovative solutions.
 
