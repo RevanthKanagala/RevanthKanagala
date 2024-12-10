@@ -22,5 +22,5 @@ I am eager to develop expertise in Artificial Intelligence (AI) and contribute t
 
 
 ## 📫 Let's Connect
-- [GitHub](https://github.com/Revanth9902)
+- [GitHub](https://github.com/RevanthKanagala)
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
